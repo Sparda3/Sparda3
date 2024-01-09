@@ -1,16 +1,23 @@
-### Hi there 👋
+# Nicolas Figueroa - Desarrollador Web FullStack
 
-<!--
-**Sparda3/Sparda3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Techs⚡
 
-Here are some ideas to get you started:
+- JavaSript
+- NodeJS
+- ReactJS
+- Express
+- PostgreSQL
+- Sequelize
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Acerca de mi 💬
+
+- 🔭 Estudios realizados en HENRY.
+- 🧠 Estoy aprendiendo las mejores prácticas y diseños de programación.
+- 👯‍♀️ Me encuentro en búsqueda activa de trabajo.
+
+## Contacta conmigo 📫
+- Linkedin: https://www.linkedin.com/in/nicolas-figueroa-38985526a/
+- Gmail: figueroa.nicolass04@gmail.com
+
+
+
